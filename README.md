@@ -41,15 +41,12 @@ Revenue, Profit, RFM Scores, Average Orders per Customer, Average Purchase per C
 ### Dashboard Development
 
 
-## 📸 Dashboard Screenshot
+### Revenue & Profitability Dashboard
 
 ![Revenue dashboard](/Revenue_dashboard.png)
 
 
-Revenue & Profitability Dashboard
- 
-## 📸 Dashboard Screenshot
-
+### Customer segmentation dashboard
 
 ![Customer Dashboard](/customers_dashboard.png)
 
