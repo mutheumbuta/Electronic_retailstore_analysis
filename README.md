@@ -51,7 +51,7 @@ Revenue & Profitability Dashboard
 ## 📸 Dashboard Screenshot
 
 
-![Customer Dashboard](/customer_dashboard.png)
+![Customer Dashboard](/customers_dashboard.png)
 
 
 ## 📂 Dataset Structure
