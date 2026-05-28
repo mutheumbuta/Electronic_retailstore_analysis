@@ -10,21 +10,24 @@ The analysis highlights key trends, evaluates market performance, and provides s
 
 post‑pandemic recovery and future growth.
 
+## Problem Statement
+
+
 ## Methodology
 
-### Data Collection
+### 1.Data Collection
 
 Raw sales, customer, product, and store data consolidated into Excel (5 worksheets).
 
-### Data Cleaning (Excel)
+### 2. Data Cleaning (Excel)
 
 Removed duplicates, standardized date formats, filled missing values, grouped ages into categories.
 
-### Data Loading (Tableau)
+### 3. Data Loading (Tableau)
 
 Cleaned tables imported into Tableau Desktop for relationship mapping.
 
-### Table Merging (Tableau)
+### 4. Table Merging (Tableau)
 
 Linked via relationships:
 
@@ -34,24 +37,24 @@ Sales ↔ Products (Product Key)
 
 Sales ↔ Stores (Store Key)
 
-### Calculated Fields
+### 5. Calculated Fields
 
 Revenue, Profit, RFM Scores, Average Orders per Customer, Average Purchase per Customer.
 
-### Dashboard Development
+### 6. Dashboard Development
 
 
-### Revenue & Profitability Dashboard
+#### Revenue & Profitability Dashboard
 
 ![Revenue dashboard](/Revenue_dashboard.png)
 
 
-### Customer segmentation dashboard
+#### Customer segmentation dashboard
 
 ![Customer Dashboard](/customers_dashboard.png)
 
 
-## 📂 Dataset Structure
+##  Dataset Structure
 
 | Table     | Records | Key Fields                          | Purpose                  |
 |-----------|---------|-------------------------------------|--------------------------|
@@ -100,3 +103,9 @@ Target Australia and Southern Europe (Italy) for growth.
 ### 5.Post‑Pandemic Recovery 
 
 Reactivation campaigns, aggressive pricing for laptops & home electronics.
+
+### Author
+Nancy Mutheu
+Github:mutheumbuta
+
+
