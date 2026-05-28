@@ -62,22 +62,22 @@ Revenue, Profit, RFM Scores, Average Orders per Customer, Average Purchase per C
 
 
 ## Key Findings
+### Revenue insights
+* **Revenue Trends**: Strong growth from 2016–2019, sharp decline in 2020–2021 due to pandemic disruptions.
 
-Revenue Trends: Strong growth from 2016–2019, sharp decline in 2020–2021 due to pandemic disruptions.
+* **Top Category**: Computers lead in both revenue and profit.
 
-Top Category: Computers lead in both revenue and profit.
+* **Market Leader**: United States contributes nearly half of total revenue.
 
-Market Leader: United States contributes nearly half of total revenue.
+* **Channel Performance**: In‑store sales ($44.34M) outperform online sales ($11.4M).
 
-Channel Performance: In‑store sales ($44.34M) outperform online sales ($11.4M).
+### Customer Insights:
 
-Customer Insights:
+* Seniors & Middle‑aged customers generate 76.8% of revenue.
 
-Seniors & Middle‑aged customers generate 76.8% of revenue.
+* Gender split is nearly even, showing broad appeal.
 
-Gender split is nearly even, showing broad appeal.
-
-U.S. market dominates with 6,885 customers.
+* U.S. market dominates with 6,885 customers.
 
 ## Recommendations
 
